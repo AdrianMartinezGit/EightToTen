@@ -10,5 +10,5 @@ MiniChallengeEightToTen  - Endpoints<br><br>
         - Hard Mode: 1 - 100<br>
     3. Restaurant Picker: 3 Endpoints that takes an input and generates a Randomly Generated Restaurant. Each endpoint is a different restaurant category that generates a random restaurant based on that category. With 10 Restaurants per category. (Choose from 1 - 3, Integer Only)
 <br>
-Peer Reviewed by {Name here}<br> 
-({Comments Here})
+Peer Reviewed by Aidan Younathan<br> 
+Everything worked as it should, it all was solid. Your restaurant picker goes really in depth so that is really cool. Good Job!
